@@ -1,0 +1,31 @@
+1 - Uygulamayı Açtığınızda Sizi Görselle Karşılayacak 
+2 - Dediğiniz Sesli Asistana Gitmediği Zaman "ne dedin, anlamadım , acaba tekrar edermisin" diyecek
+3 - Eğer Sistemle Alakalı Bir Sorun var ise "Sistem çalışmıyor" diyecektir
+────────────────────  KOMUTLAR ────────────────────
+-NASILSIN
+-NABER
+-İYİYİM
+-KÖTÜYÜM
+-BUGÜN NASILSIN
+-FIRKA ANLAT
+-HİKAYE ANLAT
+-NELER YAPABİLİRSİN
+-SEN KİMSİN
+-SAAT KAÇ
+-ARAMA YAP
+-YOUTUBE 'DA ARA
+-HAVA DURUMU NEDİR
+-HANGİ GÜNDEYİZ
+-PİL YÜZDESİ KAÇ
+-KAMERAYI AÇ
+──────────────────── GÜNCELLEMELERLE BERABER İYİLEŞECEKTİR ────────────────────
+- GÜRÜLTÜ ENGELLEME
+-SESİ DAHA İYİ ALGILAMA 
+-YENİ KOMUTLAR (MESAJ GÖNDERME,ARAMA YAPMA,BİLGİSAYAR'I YENİDEN BAŞLATMA (UYKU MODU - KAPATMA) ,GÜNCEL  SORULAR BU TARZ 
+────────────────────  TEKNİK  AKSAKLIKLAR ────────────────────
+-BİRAZ GEÇ CEVAP VERİYOR (ETRAFDAKİ SESLERİ DUYDUĞUNDAN KAYNAKLANIYOR)
+                                                                                                                                                                                         ──── MUSA ŞİRE ────  
+
+
+
+    
